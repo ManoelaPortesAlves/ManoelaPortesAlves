@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManoelaPortesAlves](https://github.com/ManoelaPortesAlves)
 
-- 📝 I regularly write articles on [www.manoelaportes.wix.com/portfolio](www.manoelaportes.wix.com/portfolio)
-
 - 💬 Ask me about **JS, CSS, HTML,Java and Python**
 
 - 📫 How to reach me **manuhportes@gmail.com**
